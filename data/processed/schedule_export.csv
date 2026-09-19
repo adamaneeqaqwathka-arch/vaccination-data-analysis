@@ -1,0 +1,274 @@
+country_name,who_region,year,vaccine_description,schedule_rounds,target_pop_description,geo_area,age_administered
+Afghanistan,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Angola,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Anguilla,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Albania,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Andorra,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M2
+Andorra,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M4
+Andorra,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M13
+United Arab Emirates,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+United Arab Emirates,EMRO,2023,Typhoid conjugate vaccine,1,Risk group(s),NATIONAL,
+United Arab Emirates,EMRO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,
+Argentina,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Armenia,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Australia,WPRO,2023,Meningococcal B vaccine,1,Risk group(s),SUBNATIONAL,M2
+Australia,WPRO,2023,Meningococcal B vaccine,2,Risk group(s),SUBNATIONAL,M4
+Australia,WPRO,2023,Meningococcal B vaccine,3,Risk group(s),SUBNATIONAL,M6
+Australia,WPRO,2023,Meningococcal B vaccine,4,Risk group(s),SUBNATIONAL,M12
+Azerbaijan,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Burundi,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Benin,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Benin,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Burkina Faso,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Burkina Faso,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M15
+Bangladesh,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Bulgaria,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Bulgaria,EURO,2023,BCG,2,General/routine,NATIONAL,M7
+Bulgaria,EURO,2023,BCG,3,General/routine,NATIONAL,Y7
+Bahrain,EMRO,2023,BCG,1,Risk group(s),NATIONAL,B
+Bosnia and Herzegovina,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Belarus,EURO,2023,BCG,1,General/routine,NATIONAL,D3-D5
+Belize,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Bermuda,AMRO,2023,BCG,1,Risk group(s),NATIONAL,1st contact
+Bermuda,AMRO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,1st contact
+Bermuda,AMRO,2023,Typhoid conjugate vaccine,2,Travellers,NATIONAL,+Y3
+Bolivia (Plurinational State of),AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Brazil,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Brazil,AMRO,2023,BCG,1,Risk group(s),NATIONAL,
+Barbados,AMRO,2023,BCG,1,Risk group(s),NATIONAL,M9
+Brunei Darussalam,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Bhutan,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Botswana,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Central African Republic,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Central African Republic,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Canada,AMRO,2023,BCG,1,General/routine,SUBNATIONAL,M1
+Chile,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Chile,AMRO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M2
+Chile,AMRO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M4
+China,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Côte d'Ivoire,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Côte d'Ivoire,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Cameroon,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Democratic Republic of the Congo,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Congo,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Cook Islands,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Colombia,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Comoros,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Cabo Verde,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Costa Rica,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Cuba,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Cayman Islands,AMRO,2023,BCG,1,General/routine,NATIONAL,W6
+Cyprus,EURO,2023,BCG,1,Risk group(s),NATIONAL,
+Czechia,EURO,2023,BCG,1,Risk group(s),NATIONAL,M1
+Germany,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Djibouti,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Dominica,AMRO,2023,BCG,1,General/routine,NATIONAL,B-Y1
+Dominican Republic,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Algeria,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Ecuador,AMRO,2023,BCG,1,General/routine,NATIONAL,<Y1
+Egypt,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Eritrea,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Eritrea,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M18
+Spain,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Spain,EURO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,
+Estonia,EURO,2023,BCG,1,General/routine,NATIONAL,D1-D5
+Ethiopia,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Finland,EURO,2023,BCG,1,Risk group(s),NATIONAL,<Y7
+Fiji,WPRO,2023,BCG,1,Catch-up children,NATIONAL,<M12
+Fiji,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+France,EURO,2023,BCG,1,General/routine,SUBNATIONAL,M1-M2
+France,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M3
+France,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M5
+France,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12
+Micronesia (Federated States of),WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Gabon,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+United Kingdom of Great Britain and Northern Ireland,EURO,2023,BCG,1,Risk group(s),NATIONAL,D28
+United Kingdom of Great Britain and Northern Ireland,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,W8
+United Kingdom of Great Britain and Northern Ireland,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,W16
+United Kingdom of Great Britain and Northern Ireland,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,Y1
+United Kingdom of Great Britain and Northern Ireland,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,>=Y2
+Georgia,EURO,2023,BCG,1,General/routine,NATIONAL,B-D5
+Ghana,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Ghana,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M18
+Guinea,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Gambia,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Gambia,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M12
+Guinea-Bissau,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Guinea-Bissau,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Equatorial Guinea,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Greece,EURO,2023,BCG,1,Risk group(s),NATIONAL,B
+Guatemala,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Guyana,AMRO,2023,BCG,1,General/routine,NATIONAL,B-W6
+"China, Hong Kong SAR",WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Honduras,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Croatia,EURO,2023,BCG,1,General/routine,NATIONAL,D2
+Haiti,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Hungary,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Indonesia,SEARO,2023,BCG,1,General/routine,NATIONAL,B-M1
+India,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Ireland,EURO,2023,BCG,1,Risk group(s),NATIONAL,
+Ireland,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M2
+Ireland,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M4
+Ireland,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12
+Iran (Islamic Republic of),EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Iraq,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Israel,EURO,2022,BCG,1,Risk group(s),NATIONAL,
+Israel,EURO,2022,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Israel,EURO,2022,Typhoid conjugate vaccine,1,Travellers,NATIONAL,
+Italy,EURO,2023,BCG,1,Health workers,NATIONAL,
+Italy,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M3
+Italy,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M5-M6
+Italy,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12-M15
+Jamaica,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Jordan,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Japan,WPRO,2023,BCG,1,General/routine,NATIONAL,Y1
+Kazakhstan,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Kenya,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Kyrgyzstan,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Cambodia,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Kiribati,WPRO,2023,BCG,1,General/routine,NATIONAL,B-Y1
+Saint Kitts and Nevis,AMRO,2023,BCG,1,General/routine,NATIONAL,B-M11
+Republic of Korea,WPRO,2023,BCG,1,General/routine,NATIONAL,B-M1
+Kuwait,EMRO,2023,BCG,1,General/routine,NATIONAL,M3
+Lao People's Democratic Republic,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Lao People's Democratic Republic,WPRO,2023,Typhoid conjugate vaccine,1,Risk group(s),SUBNATIONAL,
+Liberia,AFRO,2023,BCG,1,General/routine,NATIONAL,B-M11
+Liberia,AFRO,2023,Typhoid conjugate vaccine,1,General/routine,NATIONAL,M9
+Libya,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Saint Lucia,AMRO,2023,BCG,1,General/routine,NATIONAL,M2
+Sri Lanka,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Lesotho,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Lithuania,EURO,2023,BCG,1,General/routine,NATIONAL,D2-D3
+Lithuania,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M3
+Lithuania,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M5
+Lithuania,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12-M15
+Luxembourg,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,M3-M12
+Luxembourg,EURO,2023,Meningococcal B vaccine,2,Risk group(s),NATIONAL,+W8-M6
+Luxembourg,EURO,2023,Meningococcal B vaccine,3,Risk group(s),NATIONAL,+M6
+Latvia,EURO,2023,BCG,1,General/routine,NATIONAL,D2-D5
+"China, Macao SAR",WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Morocco,EMRO,2019,BCG,1,General/routine,NATIONAL,M1
+Monaco,EURO,2023,BCG,1,Risk group(s),NATIONAL,<Y5
+Republic of Moldova,EURO,2023,BCG,1,General/routine,NATIONAL,D2
+Madagascar,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Maldives,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Mexico,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Marshall Islands,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+North Macedonia,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Mali,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Mali,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Malta,EURO,2023,BCG,1,Risk group(s),NATIONAL,B
+Malta,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M2
+Malta,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M4
+Malta,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12
+Myanmar,SEARO,2023,BCG,1,General/routine,NATIONAL,B-M2
+Montenegro,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Mongolia,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Mozambique,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Mauritania,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Montserrat,AMRO,2023,BCG,1,General/routine,NATIONAL,M2
+Mauritius,AFRO,2023,BCG,1,General/routine,NATIONAL,M1
+Malawi,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Malaysia,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Namibia,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+New Caledonia,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Niger,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Niger,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Nigeria,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Nigeria,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Nicaragua,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Niue,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Norway,EURO,2023,BCG,1,Risk group(s),NATIONAL,W6
+Nepal,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Nepal,SEARO,2023,Typhoid conjugate vaccine,1,General/routine,NATIONAL,M15
+Nauru,WPRO,2021,BCG,1,General/routine,NATIONAL,B
+New Zealand,WPRO,2023,BCG,1,Risk group(s),NATIONAL,B
+New Zealand,WPRO,2023,Meningococcal B vaccine,1,Catch-up children,NATIONAL,
+New Zealand,WPRO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,
+New Zealand,WPRO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,
+New Zealand,WPRO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,
+New Zealand,WPRO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Oman,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Pakistan,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Pakistan,EMRO,2023,Typhoid conjugate vaccine,1,General/routine,NATIONAL,M9
+Panama,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Peru,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Philippines,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Papua New Guinea,WPRO,2023,BCG,1,General/routine,NATIONAL,B-M11
+Poland,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Democratic People's Republic of Korea,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Portugal,EURO,2023,BCG,1,Risk group(s),NATIONAL,D0-Y5
+Portugal,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M2
+Portugal,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M4
+Portugal,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M12
+Portugal,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Portugal,EURO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,
+Paraguay,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+"occupied Palestinian territory, including east Jerusalem",EMRO,2023,BCG,1,General/routine,NATIONAL,W1
+French Polynesia,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Qatar,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Romania,EURO,2023,BCG,1,General/routine,NATIONAL,B
+Russian Federation,EURO,2023,BCG,1,General/routine,NATIONAL,D3
+Russian Federation,EURO,2023,BCG,2,General/routine,NATIONAL,Y7
+Rwanda,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Saudi Arabia,EMRO,2023,BCG,1,General/routine,NATIONAL,M6
+Sudan,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Sudan,EMRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Senegal,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Singapore,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Solomon Islands,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Sierra Leone,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+El Salvador,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+San Marino,EURO,2023,Meningococcal B vaccine,1,General/routine,NATIONAL,M4
+San Marino,EURO,2023,Meningococcal B vaccine,2,General/routine,NATIONAL,M6
+San Marino,EURO,2023,Meningococcal B vaccine,3,General/routine,NATIONAL,M13
+San Marino,EURO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,
+Somalia,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Serbia,EURO,2023,BCG,1,General/routine,NATIONAL,B
+South Sudan,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Sao Tome and Principe,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Slovenia,EURO,2023,BCG,1,Risk group(s),NATIONAL,B
+Slovenia,EURO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,
+Sweden,EURO,2023,BCG,1,Risk group(s),NATIONAL,W6-M6
+Eswatini,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Seychelles,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Syrian Arab Republic,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Turks and Caicos Islands,AMRO,2023,BCG,1,General/routine,NATIONAL,B-M24
+Chad,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Chad,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M9
+Togo,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Togo,AFRO,2023,Meningococcal A conjugate vaccine,1,General/routine,NATIONAL,M15
+Thailand,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Tajikistan,EURO,2023,BCG,1,General/routine,NATIONAL,D3-D5
+Tokelau,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Turkmenistan,EURO,2023,BCG,1,General/routine,NATIONAL,D2-D3
+Turkmenistan,EURO,2023,BCG,2,General/routine,NATIONAL,Y14
+Timor-Leste,SEARO,2023,BCG,1,General/routine,NATIONAL,B
+Tonga,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Tunisia,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+Türkiye,EURO,2023,BCG,1,General/routine,NATIONAL,M2
+Tuvalu,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+United Republic of Tanzania,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Uganda,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Ukraine,EURO,2023,BCG,1,General/routine,NATIONAL,D3
+Uruguay,AMRO,2023,BCG,1,General/routine,NATIONAL,B
+United States of America,AMRO,2023,Meningococcal B vaccine,1,Risk group(s),NATIONAL,M2
+United States of America,AMRO,2023,Meningococcal B vaccine,2,Risk group(s),NATIONAL,M4
+United States of America,AMRO,2023,Meningococcal B vaccine,3,Risk group(s),NATIONAL,M6
+United States of America,AMRO,2023,Meningococcal B vaccine,4,Risk group(s),NATIONAL,M12
+United States of America,AMRO,2023,Typhoid conjugate vaccine,1,Travellers,NATIONAL,Y6
+United States of America,AMRO,2023,Typhoid conjugate vaccine,2,Travellers,NATIONAL,+Y5
+Uzbekistan,EURO,2023,BCG,1,General/routine,NATIONAL,D3
+Saint Vincent and the Grenadines,AMRO,2023,BCG,1,General/routine,NATIONAL,B-M12
+Venezuela (Bolivarian Republic of),AMRO,2023,BCG,1,General/routine,NATIONAL,B
+Viet Nam,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Vanuatu,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Wallis and Futuna,WPRO,2019,BCG,1,General/routine,NATIONAL,M1
+Samoa,WPRO,2023,BCG,1,General/routine,NATIONAL,B
+Samoa,WPRO,2023,Typhoid conjugate vaccine,1,General/routine,NATIONAL,M9
+Kosovo (in accordance with UN Security Council resolution 1244 (1999)),EURO,2023,BCG,1,General/routine,NATIONAL,B
+Yemen,EMRO,2023,BCG,1,General/routine,NATIONAL,B
+South Africa,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Zambia,AFRO,2023,BCG,1,General/routine,NATIONAL,W1
+Zimbabwe,AFRO,2023,BCG,1,General/routine,NATIONAL,B
+Zimbabwe,AFRO,2023,Typhoid conjugate vaccine,1,General/routine,SUBNATIONAL,
